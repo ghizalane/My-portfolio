@@ -86,12 +86,13 @@ const technologies = [
 ];
 
 const experiences = [
+ 
   {
-    title: 'Front-End Developer intern',
-    company_name: 'SearchCept',
-    icon: coverhunt,
+    title: 'Front-End Developer',
+    company_name: 'Desvstask',
+    icon: kelhel,
     iconBg: '#333333',
-    date: 'April 2022 - Mai 2022',
+    date: 'July 2023 - Mars 2025',
   },
   {
     title: 'Front-End Developer intern',
@@ -101,12 +102,12 @@ const experiences = [
     date: 'Feb 2023 - July 2023',
   },
   {
-    title: 'Front-End Developer',
-    company_name: 'Desvstask',
-    icon: kelhel,
+    title: 'Front-End Developer intern',
+    company_name: 'SearchCept',
+    icon: coverhunt,
     iconBg: '#333333',
-    date: 'July 2023 - Mars 2025',
-  },
+    date: 'April 2022 - Mai 2022',
+  }
 ];
 
 const projects = [
